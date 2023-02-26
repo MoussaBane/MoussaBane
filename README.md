@@ -1,18 +1,17 @@
-# Mike Codeur
-I'm Mike from France, living in Bali 🌴, FullStack developper and Mentor/Teacher, I do content on Development and Freelancing. I really enjoy learning languages and frameworks like JS and React. 
+# MOUSSA BANE
+I'm MOUSSA BANE from Mali, living in Türkiye/Bursa 🌴, Computer Engineering Student At Bursa Technical University. I really enjoy learning languages and frameworks and I really like to be a backend developer . 
 
 <!--
-**MikeCodeur/MikeCodeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MoussaBane/MoussaBane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Actually:
 
-- 🔭 I’m currently working on a new [Online Course][courses] ...
-- 🌱 I’m currently learning amazing things ...
-- 👯 I help people to be programmers and freelancers ...
-- ⚡ Fun fact : I'am DJ, Diver, Skateboarder and Surfer
-- 📫 How to reach me: Instagram or email
+- 🔭 I’m currently a computer engineering student at Bursa Technical University.
+- ⚡ Fun fact : I like FIFA, Soccer , Basketball and Karate🥋 
+- 📫 How to reach me: Email
 
-## My 100% online React Bootcamp
+<!--
+ ## My 100% online React Bootcamp
 
  <strong>
     3 months to be a really good React Programmer
@@ -34,6 +33,8 @@ Actually:
       src="https://mikecodeur.com/mike/assets/mikecodeur-trans.png"
     />
   </a>
+-->
+
 
 
 ### Connect with me:
