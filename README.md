@@ -66,65 +66,40 @@ Actually:
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][youtubeplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][youtubeplaylist]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][youtubeplaylist]
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][youtubeplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][youtubeplaylist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-
-
+<!-- other tools 
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][youtubeplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][youtubeplaylist]
 [<img align="left" alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:11px;" />][youtubeplaylist]
+-->
+
 
 
 <br />
 <br />
 
-### My daily routine :
 
-```mermaid
-  graph TD;
-      Code-->Eat;
-      Eat-->Sleep;
-      Sleep-->Code;
-```
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/MikeCodeur/react-prerequis-debutants/issues/15) in [MikeCodeur/react-prerequis-debutants](https://github.com/MikeCodeur/react-prerequis-debutants)
-2. 🗣 Commented on [#13](https://github.com/MikeCodeur/react-prerequis-debutants/issues/13) in [MikeCodeur/react-prerequis-debutants](https://github.com/MikeCodeur/react-prerequis-debutants)
-3. 🗣 Commented on [#13](https://github.com/MikeCodeur/react-prerequis-debutants/issues/13) in [MikeCodeur/react-prerequis-debutants](https://github.com/MikeCodeur/react-prerequis-debutants)
-4. ❗️ Closed issue [#11](https://github.com/MikeCodeur/react-tracker-app/issues/11) in [MikeCodeur/react-tracker-app](https://github.com/MikeCodeur/react-tracker-app)
-5. 🗣 Commented on [#11](https://github.com/MikeCodeur/react-tracker-app/issues/11) in [MikeCodeur/react-tracker-app](https://github.com/MikeCodeur/react-tracker-app)
+
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeCodeur&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoussaBane&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📺 Last Youtube:
 
-<!-- YOUTUBE:START -->
-- [QUELLE FORMATION REACT CHOISIR ? &lpar;BOOTCAMP vs FORMATION EN LIGNE vs PRESENTIEL&rpar;](https://www.youtube.com/watch?v=kPWlj2I3r_U)
-- [ChatGPT DEVIENT MON SECOND CERVEAU - EXEMPLES CONCRETS DEVELOPPEURS](https://www.youtube.com/watch?v=2BatdgK249c)
-- [Chat GPT EST STUPIDE ❌ LES DÉVELOPPEURS NE DOIVENT PAS L&#39;UTILISER ?](https://www.youtube.com/watch?v=B0FEi8yxF3U)
-- [FAUT-IL APPRENDRE JAVASCRIPT EN 2023 ? DRAMA ?](https://www.youtube.com/watch?v=CGvTpoJhnio)
-- [ChatGPT va tuer les développeurs ☠️ ?](https://www.youtube.com/watch?v=A1La-ao2sHQ)
-<!-- YOUTUBE:END -->
 
-<details>
-  <summary>📒 Latest blog content</summary>
+<!-- 
+ ### My daily routine :
 
-<!-- BLOG-POST-LIST:START -->
-- [CHILL AND QNA – EP3 – FREELANCE, ARGENT, CODE](https://www.mikecodeur.com/2023/02/20/chill-and-qna-ep3-freelance-argent-code/)
-- [QUELLE FORMATION REACT CHOISIR ? &lpar;BOOTCAMP vs FORMATION EN LIGNE vs PRESENTIEL&rpar;](https://www.mikecodeur.com/2023/02/09/quelle-formation-react-choisir-bootcamp-vs-formation-en-ligne-vs-presentiel/)
-- [DÉVELOPPEUR REACT ET ÉTUDIANT](https://www.mikecodeur.com/2023/02/06/developpeur-react-et-etudiant/)
-- [ChatGPT DEVIENT MON SECOND CERVEAU – EXEMPLES CONCRETS DEVELOPPEURS](https://www.mikecodeur.com/2023/02/03/chatgpt-devient-mon-second-cerveau-exemples-concrets-developpeurs/)
-- [DE DIRECTEUR À DÉVELOPPEUR REACT](https://www.mikecodeur.com/2023/01/30/de-directeur-a-developpeur-react/)
-<!-- BLOG-POST-LIST:END -->
-</details>
-
-[courses]: https://formations.mikecodeur.com
-[website]: https://go.mikecodeur.com/blog
-[insta]: https://go.mikecodeur.com/instagram
-[Youtube]: https://go.mikecodeur.com/youtube
-[youtubeplaylist]: https://www.youtube.com/channel/UC7BNBNLwMF8GjgXLDP8PWQw
+ ```mermaid
+   graph TD;
+       Code-->Eat;
+       Eat-->Sleep;
+       Sleep-->Code;
+ ```
+-->
