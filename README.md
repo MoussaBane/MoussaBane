@@ -8,7 +8,7 @@ Actually:
 
 - 🔭 I’m currently a computer engineering student at Bursa Technical University.
 - ⚡ Fun fact : I like FIFA, Soccer , Basketball and Karate🥋 
-- 📫 How to reach me: Email
+- 📫 How to reach me: Email or LinkedIn 
 
 <!--
  ## My 100% online React Bootcamp
