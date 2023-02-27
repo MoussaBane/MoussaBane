@@ -82,8 +82,7 @@ Actually:
 <br />
 
 
-### ⭐ GitHub Stats
-&nbsp;&nbsp;
+### ⭐ GitHub Stats &nbsp;&nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moussabane&hide=contribs,prs&show_icons=true&theme=radical)
 
 
