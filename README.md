@@ -53,7 +53,7 @@ Actually:
 
 ### ⭐ GitHub Stats      
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=moussabane&hide=contribs,prs&show_icons=true&theme=radical)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=moussabane&show_icons=true&theme=radical&hide=contribs,prs)
 
 ![moussabane's GitHub stats](https://github-readme-stats.vercel.app/api?username=moussabane&show_icons=true&theme=radical) 
 
