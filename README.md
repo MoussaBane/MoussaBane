@@ -47,7 +47,7 @@ Actually:
 
 ### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moussabane&layout=compact)](https://github.com/moussabane/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moussabane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
@@ -55,9 +55,14 @@ Actually:
 
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=moussabane&show_icons=true&theme=radical&hide=contribs,prs)
 
+
+
+<!-- Most Used Languages
+
+-->
+<!-- GitHub Stats  
 ![moussabane's GitHub stats](https://github-readme-stats.vercel.app/api?username=moussabane&show_icons=true&theme=radical) 
-
-
+-->
 <!--
  ## My 100% online React Bootcamp
 
