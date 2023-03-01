@@ -46,9 +46,6 @@ Actually:
 <br />
 
 ### Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moussabane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moussabane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
