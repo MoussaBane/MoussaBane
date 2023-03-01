@@ -10,31 +10,6 @@ Actually:
 - ⚡ Fun fact : I like FIFA, Soccer , Basketball and Karate🥋 
 - 📫 How to reach me: Email or LinkedIn 
 
-<!--
- ## My 100% online React Bootcamp
-
- <strong>
-    3 months to be a really good React Programmer
-  </strong>
-  <p>
-    Be a Master in React by building amazing projects
-  </p>
-
-  <a href="https://go.mikecodeur.com/react-mastery">
-    <img 
-      alt="Apprendre React"
-      src="https://mikecodeur.com/mike/assets/courses/react-mastery.png"
-    />
-  </a>
- 
-  <a href="https://go.mikecodeur.com/react-mastery" >
-    <img width="100"
-      alt="Apprendre React"
-      src="https://mikecodeur.com/mike/assets/mikecodeur-trans.png"
-    />
-  </a>
--->
-
 
 
 ### Connect with me:
@@ -47,16 +22,7 @@ Actually:
 &nbsp;&nbsp; 
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/moussa-bane-19b5a91ba/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/moussa-bane-19b5a91ba/#gh-dark-mode-only)
-&nbsp;&nbsp;
-<!-- For youtube
-[![img_contact](./img/youtube-light.svg)](https://go.mikecodeur.com/youtube#gh-light-mode-only)
-[![img_contact](./img/youtube-dark.svg)](https://go.mikecodeur.com/youtube#gh-dark-mode-only)
-&nbsp;&nbsp;
--->
-<!-- For instagram
-[![img_contact](./img/instagram-light.svg)](https://instagram.com/mikecodeur#gh-light-mode-only)
-[![img_contact](./img/instagram-dark.svg)](https://instagram.com/mikecodeur#gh-dark-mode-only)
--->
+
 
 ### Languages and Tools:
 
@@ -84,11 +50,46 @@ Actually:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moussabane&layout=compact)](https://github.com/moussabane/github-readme-stats)
 
 <br />
- 
 
 ### ⭐ GitHub Stats         
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moussabane&hide=contribs,prs&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moussabane&hide=contribs,prs&show_icons=true&theme=radical) 
+
+
+<!--
+ ## My 100% online React Bootcamp
+
+ <strong>
+    3 months to be a really good React Programmer
+  </strong>
+  <p>
+    Be a Master in React by building amazing projects
+  </p>
+
+  <a href="https://go.mikecodeur.com/react-mastery">
+    <img 
+      alt="Apprendre React"
+      src="https://mikecodeur.com/mike/assets/courses/react-mastery.png"
+    />
+  </a>
+ 
+  <a href="https://go.mikecodeur.com/react-mastery" >
+    <img width="100"
+      alt="Apprendre React"
+      src="https://mikecodeur.com/mike/assets/mikecodeur-trans.png"
+    />
+  </a>
+-->
+
+<!-- For youtube
+[![img_contact](./img/youtube-light.svg)](https://go.mikecodeur.com/youtube#gh-light-mode-only)
+[![img_contact](./img/youtube-dark.svg)](https://go.mikecodeur.com/youtube#gh-dark-mode-only)
+&nbsp;&nbsp;
+-->
+<!-- For instagram
+[![img_contact](./img/instagram-light.svg)](https://instagram.com/mikecodeur#gh-light-mode-only)
+[![img_contact](./img/instagram-dark.svg)](https://instagram.com/mikecodeur#gh-dark-mode-only)
+-->
 
 
 
