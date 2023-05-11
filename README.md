@@ -8,7 +8,7 @@ Actually:
 
 - 🔭 I’m currently a computer engineering student at Bursa Technical University.
 - ⚡ Fun fact : I like FIFA, Soccer , Basketball and Karate🥋 
-- 📫 How to reach me: Email or LinkedIn 
+- 📫 How to reach me: banemoussa2001@gmail.com or www.linkedin.com/in/moussa-bane-19b5a91ba 
 
 
 
