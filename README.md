@@ -1,5 +1,6 @@
-# MOUSSA BANE
-I'm MOUSSA BANE from Mali, living in Türkiye/Bursa 🌴, Computer Engineering Student At Bursa Technical University. I really enjoy learning languages and frameworks and I really like to be a backend developer . 
+# <h1 align="center">Hi 👋, I'm MOUSSA BANE</h1>
+<h3 align="center">Full Stack Developer</h3>
+I'm MOUSSA BANE from Mali, living in Türkiye/Bursa 🌴, Computer Engineering Student At Bursa Technical University. I really enjoy learning languages and frameworks and I really like to be a full stack developer . 
 
 <!--
 **MoussaBane/MoussaBane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,6 +8,7 @@ I'm MOUSSA BANE from Mali, living in Türkiye/Bursa 🌴, Computer Engineering S
 Actually:
 
 - 🔭 I’m currently a computer engineering student at Bursa Technical University.
+- 🌱 I’m currently learning **Angular, REACT, Laravel**
 - ⚡ Fun fact : I like FIFA, Soccer , Basketball and Karate🥋 
 - 📫 How to reach me: banemoussa2001@gmail.com or www.linkedin.com/in/moussa-bane-19b5a91ba 
 
