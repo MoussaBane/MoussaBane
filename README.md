@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm MOUSSA BANE</h1>
+<h1 align="center">Hi 👋, I'm MOUSSA BANE</h1>
 <h2 align="center">Full Stack Developer</h2>
 I'm MOUSSA BANE from Mali, living in Türkiye/Bursa 🌴, Computer Engineering Student At Bursa Technical University. I really enjoy learning languages and frameworks and I really like to be a full stack developer . 
 
@@ -54,13 +54,13 @@ Actually:
 
 ### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoussaBane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 ### ⭐ GitHub Stats      
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&hide=contribs,prs)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=MoussaBane&show_icons=true&theme=radical&hide=contribs,prs)
 
 
 
