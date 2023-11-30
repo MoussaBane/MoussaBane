@@ -50,7 +50,7 @@ Actually:
 &nbsp;&nbsp;
 [<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />]
 &nbsp;&nbsp;
-[<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="padding-right:10px;" />]
+![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg =26x)
 
 
 
