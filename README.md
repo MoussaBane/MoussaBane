@@ -64,6 +64,12 @@ Actually:
 
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=moussabane&show_icons=true&theme=radical&hide=contribs,prs)
 
+---
+
+## Contributions et Pull Requests
+
+![GitHub Contributions](https://github.com/moussabane/moussabane/graphs/contributors)
+
 
 
 
