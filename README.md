@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MOUSSA BANE</h1>
 <h2 align="center">Full Stack Developer</h2>
-I'm MOUSSA BANE from Mali, living in Türkiye/Bursa 🌴, Computer Engineering Student At Bursa Technical University. I really enjoy learning languages and frameworks and I really like to be a full stack developer . 
+I'm MOUSSA BANE from Mali, living in Türkiye/Bursa 🌴, Computer Engineer From Bursa Technical University. I really enjoy learning languages and frameworks and I really like to be a full stack developer . 
 
 <!--
 **MoussaBane/MoussaBane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
