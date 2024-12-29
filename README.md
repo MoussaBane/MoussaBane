@@ -8,7 +8,7 @@ I'm MOUSSA BANE from Mali, living in Türkiye/Bursa 🌴, Computer Engineer From
 Actually:
 
 - 🔭 I’m currently a master computer engineering student at Bursa Technical University.
-- 🌱 I’m currently learning **Angular, REACT, Laravel**
+- 🌱 I’m currently working with **Angular, REACT, Laravel, .Net Core, NodeJS, C#**
 - ⚡ Fun fact : I like FIFA, Soccer , Basketball and Karate🥋 
 - 📫 How to reach me: banemoussa2001@gmail.com or www.linkedin.com/in/moussa-bane-19b5a91ba 
 
