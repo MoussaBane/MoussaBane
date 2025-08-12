@@ -8,6 +8,10 @@
 
 ---
 
+<p align="center">
+  <img src="./banner.png" alt="Moussa Bane - Full Stack Developer" />
+</p>
+
 ## 🚀 About Me
 
 I build **scalable, user-friendly applications** and integrate **AI/ML** into real-world solutions.  
