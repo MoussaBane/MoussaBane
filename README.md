@@ -180,12 +180,7 @@ With strong experience in both <b>frontend</b> and <b>backend</b>, I deliver cle
 ## 📈 Activity & Streaks
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=MoussaBane&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"
-    height="165"
-    alt="GitHub Streak (MoussaBane)"
-    loading="lazy"
-  />
+  <img src="https://streak-stats.demolab.com?user=MoussaBane&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak (MoussaBane)" />
 </p>
 
 <p align="center">
