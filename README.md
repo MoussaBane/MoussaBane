@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="./banner.png" alt="Moussa Bane - Full Stack Developer" />
+  <img src="./img/MoussaBane Github Banner.png" alt="Moussa Bane - Full Stack Developer" />
 </p>
 
 ## 🚀 About Me
