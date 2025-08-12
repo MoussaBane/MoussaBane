@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./img/MoussaBane Github Banner.png" alt="Moussa Bane - Full Stack Developer" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Moussa Bane</h1>
 <h3 align="center">💻 Full Stack Developer · 🖥️ Computer Engineer · 🤖 AI & ML Enthusiast</h3>
 
@@ -7,10 +11,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="./img/MoussaBane Github Banner.png" alt="Moussa Bane - Full Stack Developer" />
-</p>
 
 ## 🚀 About Me
 
