@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/MoussaBane Github Banner.png" alt="Moussa Bane - Full Stack Developer" />
+  <img src="./img/MoussaBane%20Github%20Banner.png" alt="Moussa Bane - Full Stack Developer" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Moussa Bane</h1>
@@ -14,40 +14,76 @@
 
 ## 🚀 About Me
 
-I build **scalable, user-friendly applications** and integrate **AI/ML** into real-world solutions.  
-With strong experience in both **frontend** and **backend**, I deliver clean, maintainable, and future-proof systems.
+I build <b>scalable, user-friendly applications</b> and integrate <b>AI/ML</b> into real-world solutions.  
+With strong experience in both <b>frontend</b> and <b>backend</b>, I deliver clean, maintainable, and future-proof systems.
 
 - 🎯 Focus: Full-stack apps · AI/ML integration · SaaS architectures  
 - 💼 Stack: Angular · React · Next.js · Laravel · .NET Core · Node.js · PostgreSQL/MySQL · C# · Python · Java · C  
-- 📚 Currently deep-diving into **NestJS** and **DevOps pipelines**  
+- 📚 Currently deep-diving into <b>NestJS</b> and <b>DevOps pipelines</b>  
 - ⚡ Fun: FIFA 🎮 · Soccer ⚽ · Basketball 🏀 · Karate 🥋  
 
-**Reach me:**  
-[![Email](https://img.shields.io/badge/Email-bane.moussa2001%40gmail.com-red?style=flat&logo=gmail)](mailto:banemoussa2001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/moussa-bane-19b5a91ba)
-[![Portfolio](https://img.shields.io/badge/Portfolio-moussabane.com-black?style=flat&logo=google-chrome)](https://moussabane.com)
+<b>Reach me:</b>  
+<a href="mailto:banemoussa2001@gmail.com" title="Email Moussa" aria-label="Email Moussa">
+  <img alt="Email" src="https://img.shields.io/badge/Email-banemoussa2001%40gmail.com-red?style=flat&logo=gmail">
+</a>
+<a href="https://www.linkedin.com/in/moussa-bane-19b5a91ba" title="Connect on LinkedIn" aria-label="LinkedIn Profile">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+</a>
+<a href="https://moussabane.com" title="Visit Portfolio" aria-label="Portfolio Website">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-moussabane.com-black?style=flat&logo=google-chrome">
+</a>
 
 ---
 
 ## 🌟 Featured Projects
 
+<!--
+Notes:
+- These cards come from github-readme-stats (can be rate-limited). Text links below ensure repos are always reachable.
+- If an image fails, use the fallback links or refresh.
+-->
+
 <p align="center">
-  <a href="https://github.com/MoussaBane/Xcalp-Clinic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoussaBane&repo=Xcalp-Clinic&theme=radical" alt="Xcalp Clinic" />
+  <a href="https://github.com/MoussaBane/Xcalp-Clinic" title="Go to Xcalp Clinic repository" aria-label="Xcalp Clinic repository">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoussaBane&repo=Xcalp-Clinic&theme=radical&cache_seconds=7200" alt="Xcalp Clinic repo card" />
   </a>
-  <a href="https://github.com/MoussaBane/Smart-Traffic-Light-Simulation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoussaBane&repo=Smart-Traffic-Light-Simulation&theme=radical" alt="Smart Traffic Light Simulation" />
-  </a>
+  <br/>
+  <a href="https://github.com/MoussaBane/Xcalp-Clinic" title="Xcalp Clinic Repository">Xcalp Clinic Repository</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MoussaBane/ENER-Research">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoussaBane&repo=ENER-Research&theme=radical" alt="ENER Research" />
+  <a href="https://github.com/MoussaBane/Smart-Traffic-Light-Simulation" title="Go to Smart Traffic Light Simulation repository" aria-label="Smart Traffic Light Simulation repository">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoussaBane&repo=Smart-Traffic-Light-Simulation&theme=radical&cache_seconds=7200" alt="Smart Traffic Light Simulation repo card" />
   </a>
-  <a href="https://github.com/MoussaBane/CRM-Laravel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoussaBane&repo=CRM-Laravel&theme=radical" alt="CRM Laravel" />
-  </a>
+  <br/>
+  <a href="https://github.com/MoussaBane/Smart-Traffic-Light-Simulation" title="Smart Traffic Light Simulation Repository">Smart Traffic Light Simulation Repository</a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/MoussaBane/ENER-Research" title="Go to ENER Research repository" aria-label="ENER Research repository">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoussaBane&repo=ENER-Research&theme=radical&cache_seconds=7200" alt="ENER Research repo card" />
+  </a>
+  <br/>
+  <a href="https://github.com/MoussaBane/ENER-Research" title="ENER Research Repository">ENER Research Repository</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MoussaBane/CRM-Laravel" title="Go to CRM Laravel repository" aria-label="CRM Laravel repository">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoussaBane&repo=CRM-Laravel&theme=radical&cache_seconds=7200" alt="CRM Laravel repo card" />
+  </a>
+  <br/>
+  <a href="https://github.com/MoussaBane/CRM-Laravel" title="CRM Laravel Repository">CRM Laravel Repository</a>
+</p>
+
+<!-- Minimal fallback list (keeps things usable if images fail) -->
+<details>
+  <summary>Text links to projects (fallback)</summary>
+
+- Xcalp Clinic: https://github.com/MoussaBane/Xcalp-Clinic
+- Smart Traffic Light Simulation: https://github.com/MoussaBane/Smart-Traffic-Light-Simulation
+- ENER Research: https://github.com/MoussaBane/ENER-Research
+- CRM Laravel: https://github.com/MoussaBane/CRM-Laravel
+</details>
 
 ---
 
@@ -117,19 +153,20 @@ With strong experience in both **frontend** and **backend**, I deliver clean, ma
 
 ## 📌 Now
 
-- 🎓 Working on my **Master's project**: *Extended Named Entity Recognition for Turkish and Similar Languages*  
+- 🎓 Working on my <b>Master's project</b>: <i>Extended Named Entity Recognition for Turkish and Similar Languages</i>  
 - 💼 Open to work — Full Stack Development, AI/ML integration, and scalable backend systems  
-- 📚 Continuing to expand my skills in **NestJS, cloud deployments, and advanced AI pipelines**
+- 📚 Continuing to expand my skills in <b>NestJS</b>, cloud deployments, and advanced AI pipelines
 
 ---
 
 ## 🎓 Certifications
 
-[![Python Essential Training](https://img.shields.io/badge/Python%20Essential%20Training-3776AB?style=flat&logo=python&logoColor=white)](https://www.linkedin.com/learning/certificates/5acc327daeda965634ef7bb84be7eb1642daeaf78e94a8d1ac2e666004345f2a)  
-[![AI for Everyone](https://img.shields.io/badge/AI%20for%20Everyone-FF6F00?style=flat&logo=google-cloud&logoColor=white)](https://www.linkedin.com/learning/certificates/a9c786a4f1fb514233cb975cd7593b24e856a38e6e53cf518717b219aa6f99fa)  
-[![Deep Learning Fundamentals](https://img.shields.io/badge/Deep%20Learning%20Fundamentals-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://www.linkedin.com/learning/certificates/aea729c57d8179f69fa6236b2f4069bd78f61c46ca149732992499f29ff6d8c6)  
-[![Machine Learning Foundations](https://img.shields.io/badge/Machine%20Learning%20Foundations-102230?style=flat&logo=python&logoColor=white)](https://www.linkedin.com/learning/certificates/a05c991fb4ebeb81b3b9f395c6fafbddbe99be00b6fbf887591fde1dccb71fb3)  
-[![SQL for Data Science](https://img.shields.io/badge/SQL%20for%20Data%20Science-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.linkedin.com/learning/certificates/1b0b448e4fc3edd8eeb9c37f998be157719c708357c8a58949614c9a229aaaa8)
+<!-- Replace the placeholder links below with full certificate URLs -->
+<a href="#" title="Python Essential Training">![Python Essential Training](https://img.shields.io/badge/Python%20Essential%20Training-3776AB?style=flat&logo=python&logoColor=white)</a>
+<a href="#" title="AI for Everyone">![AI for Everyone](https://img.shields.io/badge/AI%20for%20Everyone-FF6F00?style=flat&logo=google-cloud&logoColor=white)</a>
+<a href="#" title="Deep Learning Fundamentals">![Deep Learning Fundamentals](https://img.shields.io/badge/Deep%20Learning%20Fundamentals-EE4C2C?style=flat&logo=pytorch&logoColor=white)</a>
+<a href="#" title="Machine Learning Foundations">![Machine Learning Foundations](https://img.shields.io/badge/Machine%20Learning%20Foundations-102230?style=flat&logo=python&logoColor=white)</a>
+<a href="#" title="SQL for Data Science">![SQL for Data Science](https://img.shields.io/badge/SQL%20for%20Data%20Science-4479A1?style=flat&logo=mysql&logoColor=white)</a>
 
 ---
 
@@ -145,10 +182,10 @@ With strong experience in both **frontend** and **backend**, I deliver clean, ma
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoussaBane&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoussaBane&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoussaBane&show_icons=true&theme=radical&cache_seconds=7200" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoussaBane&layout=compact&theme=radical&cache_seconds=7200" height="165" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoussaBane&theme=dracula&no-frame=true&margin-w=10" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MoussaBane&theme=dracula&no-frame=true&margin-w=10" alt="GitHub Profile Trophies"/>
 </p>
