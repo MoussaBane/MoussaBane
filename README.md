@@ -173,8 +173,21 @@ Notes:
 ## 📈 Activity & Streaks
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MoussaBane&theme=radical&hide_border=true" height="165" alt="GitHub Streak"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoussaBane&theme=redical&hide_border=true" alt="Activity Graph"/>
+  <img
+    src="https://streak-stats.demolab.com?user=MoussaBane&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    height="165"
+    alt="GitHub Streak (MoussaBane)"
+    loading="lazy"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/FF4E6A/MoussaBane"
+    alt="GitHub Contributions Chart (MoussaBane)"
+    width="700"
+    loading="lazy"
+  />
 </p>
 
 ---
@@ -182,10 +195,19 @@ Notes:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoussaBane&show_icons=true&theme=radical&cache_seconds=7200" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoussaBane&layout=compact&theme=radical&cache_seconds=7200" height="165" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoussaBane&theme=radical" alt="Profile details card" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoussaBane&theme=dracula&no-frame=true&margin-w=10" alt="GitHub Profile Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoussaBane&theme=radical" height="180" alt="Stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoussaBane&theme=radical" height="180" alt="Most commit language card" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MoussaBane&theme=radical" height="180" alt="Repos per language card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MoussaBane&theme=radical&utcOffset=3" height="180" alt="Productive time card" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MoussaBane&theme=dracula&no-frame=true&margin-w=10" alt="GitHub Profile Trophies" />
 </p>
