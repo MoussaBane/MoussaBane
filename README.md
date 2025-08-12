@@ -37,42 +37,49 @@ With strong experience in both <b>frontend</b> and <b>backend</b>, I deliver cle
 
 ## 🌟 Featured Projects
 
-<!--
-Notes:
-- These cards come from github-readme-stats (can be rate-limited). Text links below ensure repos are always reachable.
-- If an image fails, use the fallback links or refresh.
--->
-
 <p align="center">
-  <a href="https://github.com/MoussaBane/Xcalp-Clinic" title="Go to Xcalp Clinic repository" aria-label="Xcalp Clinic repository">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoussaBane&repo=Xcalp-Clinic&theme=radical&cache_seconds=7200" alt="Xcalp Clinic repo card" />
-  </a>
-  <br/>
-  <a href="https://github.com/MoussaBane/Xcalp-Clinic" title="Xcalp Clinic Repository">Xcalp Clinic Repository</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MoussaBane/Smart-Traffic-Light-Simulation" title="Go to Smart Traffic Light Simulation repository" aria-label="Smart Traffic Light Simulation repository">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoussaBane&repo=Smart-Traffic-Light-Simulation&theme=radical&cache_seconds=7200" alt="Smart Traffic Light Simulation repo card" />
-  </a>
-  <br/>
-  <a href="https://github.com/MoussaBane/Smart-Traffic-Light-Simulation" title="Smart Traffic Light Simulation Repository">Smart Traffic Light Simulation Repository</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MoussaBane/ENER-Research" title="Go to ENER Research repository" aria-label="ENER Research repository">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoussaBane&repo=ENER-Research&theme=radical&cache_seconds=7200" alt="ENER Research repo card" />
-  </a>
-  <br/>
-  <a href="https://github.com/MoussaBane/ENER-Research" title="ENER Research Repository">ENER Research Repository</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MoussaBane/CRM-Laravel" title="Go to CRM Laravel repository" aria-label="CRM Laravel repository">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoussaBane&repo=CRM-Laravel&theme=radical&cache_seconds=7200" alt="CRM Laravel repo card" />
-  </a>
-  <br/>
-  <a href="https://github.com/MoussaBane/CRM-Laravel" title="CRM Laravel Repository">CRM Laravel Repository</a>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h4><a href="https://github.com/MoussaBane/Xcalp-Clinic">Xcalp Clinic</a></h4>
+        <p>Healthcare appointment and clinic management platform.</p>
+        <p><sub>Stack: Laravel, MySQL, Bootstrap</sub></p>
+        <p>
+          <img src="https://img.shields.io/github/stars/MoussaBane/Xcalp-Clinic?style=social" alt="Stars"/>
+          <img src="https://img.shields.io/github/last-commit/MoussaBane/Xcalp-Clinic?logo=github" alt="Last commit"/>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h4><a href="https://github.com/MoussaBane/Smart-Traffic-Light-Simulation">Smart Traffic Light Simulation</a></h4>
+        <p>Simulation of adaptive traffic lights using ML logic.</p>
+        <p><sub>Stack: Python, OpenCV, PyTorch</sub></p>
+        <p>
+          <img src="https://img.shields.io/github/stars/MoussaBane/Smart-Traffic-Light-Simulation?style=social" alt="Stars"/>
+          <img src="https://img.shields.io/github/last-commit/MoussaBane/Smart-Traffic-Light-Simulation?logo=github" alt="Last commit"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h4><a href="https://github.com/MoussaBane/ENER-Research">ENER Research</a></h4>
+        <p>Extended Named Entity Recognition research project and experiments.</p>
+        <p><sub>Stack: Python, PyTorch, NLP</sub></p>
+        <p>
+          <img src="https://img.shields.io/github/stars/MoussaBane/ENER-Research?style=social" alt="Stars"/>
+          <img src="https://img.shields.io/github/last-commit/MoussaBane/ENER-Research?logo=github" alt="Last commit"/>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h4><a href="https://github.com/MoussaBane/CRM-Laravel">CRM Laravel</a></h4>
+        <p>Customer relationship management system with role-based access.</p>
+        <p><sub>Stack: Laravel, MySQL, REST</sub></p>
+        <p>
+          <img src="https://img.shields.io/github/stars/MoussaBane/CRM-Laravel?style=social" alt="Stars"/>
+          <img src="https://img.shields.io/github/last-commit/MoussaBane/CRM-Laravel?logo=github" alt="Last commit"/>
+        </p>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <!-- Minimal fallback list (keeps things usable if images fail) -->
