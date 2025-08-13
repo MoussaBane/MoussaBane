@@ -22,16 +22,20 @@ With strong experience in both <b>frontend</b> and <b>backend</b>, I deliver cle
 - 📚 Currently deep-diving into <b>NestJS</b> and <b>DevOps pipelines</b>  
 - ⚡ Fun: FIFA 🎮 · Soccer ⚽ · Basketball 🏀 · Karate 🥋  
 
-<b>Reach me:</b>  
-<a href="mailto:banemoussa2001@gmail.com" title="Email Moussa" aria-label="Email Moussa">
-  <img alt="Email" src="https://img.shields.io/badge/Email-banemoussa2001%40gmail.com-red?style=flat&logo=gmail">
-</a>
-<a href="https://www.linkedin.com/in/moussa-bane-19b5a91ba" title="Connect on LinkedIn" aria-label="LinkedIn Profile">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
-</a>
-<a href="https://moussabane.com" title="Visit Portfolio" aria-label="Portfolio Website">
-  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-moussabane.com-black?style=flat&logo=google-chrome">
-</a>
+<p align="center">
+    <b>📬 Reach Me</b><br><br>
+    <a href="mailto:banemoussa2001@gmail.com" title="Email Moussa" aria-label="Email Moussa">
+        <img alt="Email" src="https://img.shields.io/badge/Email-banemoussa2001%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/moussa-bane-19b5a91ba" title="Connect on LinkedIn" aria-label="LinkedIn Profile">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    </a>
+    &nbsp;
+    <a href="https://moussabane.com" title="Visit Portfolio" aria-label="Portfolio Website">
+        <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-moussabane.com-black?style=for-the-badge&logo=google-chrome" />
+    </a>
+</p>
 
 ---
 
@@ -41,42 +45,26 @@ With strong experience in both <b>frontend</b> and <b>backend</b>, I deliver cle
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h4><a href="https://github.com/MoussaBane/Xcalp-Clinic">Xcalp Clinic</a></h4>
-        <p>Healthcare appointment and clinic management platform.</p>
-        <p><sub>Stack: Laravel, MySQL, Bootstrap</sub></p>
-        <p>
-          <img src="https://img.shields.io/github/stars/MoussaBane/Xcalp-Clinic?style=social" alt="Stars"/>
-          <img src="https://img.shields.io/github/last-commit/MoussaBane/Xcalp-Clinic?logo=github" alt="Last commit"/>
-        </p>
+        <h4>Xcalp Clinic</h4>
+        <p>A healthcare appointment and clinic management system, supporting patient registration, clinic associations, and customizable service offerings.</p>
+        <p><sub><b>Stack:</b> NestJS, PostgreSQL, TypeScript</sub></p>
       </td>
       <td width="50%" valign="top">
-        <h4><a href="https://github.com/MoussaBane/Smart-Traffic-Light-Simulation">Smart Traffic Light Simulation</a></h4>
-        <p>Simulation of adaptive traffic lights using ML logic.</p>
-        <p><sub>Stack: Python, OpenCV, PyTorch</sub></p>
-        <p>
-          <img src="https://img.shields.io/github/stars/MoussaBane/Smart-Traffic-Light-Simulation?style=social" alt="Stars"/>
-          <img src="https://img.shields.io/github/last-commit/MoussaBane/Smart-Traffic-Light-Simulation?logo=github" alt="Last commit"/>
-        </p>
+        <h4>Smart Traffic Light Simulation</h4>
+        <p>A reinforcement learning–based traffic control simulation using a custom 4-way traffic environment to optimize signal timing and reduce congestion.</p>
+        <p><sub><b>Stack:</b> Python, Gymnasium, Stable-Baselines3 (DQN), Matplotlib</sub></p>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h4><a href="https://github.com/MoussaBane/ENER-Research">ENER Research</a></h4>
-        <p>Extended Named Entity Recognition research project and experiments.</p>
-        <p><sub>Stack: Python, PyTorch, NLP</sub></p>
-        <p>
-          <img src="https://img.shields.io/github/stars/MoussaBane/ENER-Research?style=social" alt="Stars"/>
-          <img src="https://img.shields.io/github/last-commit/MoussaBane/ENER-Research?logo=github" alt="Last commit"/>
-        </p>
+        <h4>ENER Research</h4>
+        <p>Research project on Extended Named Entity Recognition (ENER) with over 130 entity categories, including data annotation, model training, and evaluation.</p>
+        <p><sub><b>Stack:</b> Python, PyTorch, NLP, INCEpTION</sub></p>
       </td>
       <td width="50%" valign="top">
-        <h4><a href="https://github.com/MoussaBane/CRM-Laravel">CRM Laravel</a></h4>
-        <p>Customer relationship management system with role-based access.</p>
-        <p><sub>Stack: Laravel, MySQL, REST</sub></p>
-        <p>
-          <img src="https://img.shields.io/github/stars/MoussaBane/CRM-Laravel?style=social" alt="Stars"/>
-          <img src="https://img.shields.io/github/last-commit/MoussaBane/CRM-Laravel?logo=github" alt="Last commit"/>
-        </p>
+        <h4>CRM Laravel</h4>
+        <p>Customer Relationship Management (CRM) platform with role-based access, integrated SMS/email/call systems, and business workflow automation.</p>
+        <p><sub><b>Stack:</b> Laravel, MySQL, Bootstrap</sub></p>
       </td>
     </tr>
   </table>
