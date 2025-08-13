@@ -2,7 +2,7 @@
   <img src="./img/MoussaBane%20Github%20Banner.png" alt="Moussa Bane - Full Stack Developer" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Moussa Bane</h1>
+<h1 align="center">👋 Hi, I'm Moussa BANE</h1>
 <h3 align="center">💻 Full Stack Developer · 🖥️ Computer Engineer · 🤖 AI & ML Enthusiast</h3>
 
 <p align="center">
