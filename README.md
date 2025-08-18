@@ -32,7 +32,7 @@ With strong experience in both <b>frontend</b> and <b>backend</b>, I deliver cle
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
     </a>
     &nbsp;
-    <a href="https://moussabane.com" title="Visit Portfolio" aria-label="Portfolio Website">
+    <a href="https://moussa-bane.replit.app" title="Visit Portfolio" aria-label="Portfolio Website">
         <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-moussabane.com-black?style=for-the-badge&logo=google-chrome" />
     </a>
 </p>
